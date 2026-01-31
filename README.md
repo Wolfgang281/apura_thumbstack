@@ -6,10 +6,6 @@ A responsive landing page for APURA, a European cloud platform focused on data s
 
 **[View Live Site](#)** _(https://apura-thumbstack-eight.vercel.app/)_
 
-## 📖 About This Project
-
-This is my submission for the Thumbstack Front-End Machine Test (July 2025). The project is a pixel-perfect implementation of the provided Figma design, showcasing APURA's mission to provide Europeans with complete control over their data.
-
 ## 🛠️ Built With
 
 - **React** - UI library
