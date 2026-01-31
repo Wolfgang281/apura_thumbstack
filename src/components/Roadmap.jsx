@@ -60,11 +60,11 @@ export default function Roadmap() {
               {/* Stage dot */}
               <div
                 className={`absolute left-0 md:left-4 top-8 w-8 h-8 rounded-full flex items-center justify-center text-sm font-medium
-                ${
-                  item.status === "coming"
-                    ? "bg-black/10 text-black/40"
-                    : "bg-black text-white"
-                }`}
+                  ${
+                    item.status === "coming"
+                      ? "bg-black/10 text-black/40"
+                      : "bg-black text-white"
+                  }`}
               >
                 {item.stage}
               </div>
