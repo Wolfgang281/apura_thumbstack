@@ -92,7 +92,7 @@ export default function Hero() {
       </div>
 
       {/* FEATURES */}
-      <div className="mx-auto max-w-7xl px-6 md:px-10 lg:px-16 pb-16 md:pb-24 mt-20">
+      <div className="mx-auto  max-w-7xl px-6 md:px-10 lg:px-16 pb-16 md:pb-24 mt-80">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           {features.map((feature) => (
             <div key={feature.title} className="border-t border-black/20 pt-4">

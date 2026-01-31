@@ -4,7 +4,7 @@ A responsive landing page for APURA, a European cloud platform focused on data s
 
 ## 🚀 Live Demo
 
-**[View Live Site](#)** _(Add your Vercel/Netlify link here)_
+**[View Live Site](#)** _(https://apura-thumbstack-eight.vercel.app/)_
 
 ## 📖 About This Project
 
